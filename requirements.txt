@@ -2,7 +2,7 @@
 
 streamlit==1.32.2
 openai==1.30.0
-PyMuPDF==1.23.8
+PyMuPDF==1.27.2
 pydantic==2.6.4
 pillow==10.2.0
 fpdf2==2.7.8
